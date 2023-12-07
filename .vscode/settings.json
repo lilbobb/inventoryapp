@@ -1,0 +1,11 @@
+{
+  "workbench.editor.wrapTabs": true,
+  "debug.disassemblyView.showSourceCode": false,
+  "notebook.output.wordWrap": true,
+  "chat.editor.wordWrap": "on",
+  "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+  "workbench.sideBar.location": "right",
+  "workbench.tree.indent": 8,
+  "editor.renderWhitespace": "selection",
+  "editor.wordWrap": "bounded"
+}
